@@ -1,1 +1,1 @@
-This is my Toy project in which i analysed the data using python in the jupyter notebook. You can also visit my linkeldn profile to also check out my new projects - https://www.linkedin.com/in/raghav-sharma11/
+This is my Toy project in which i analysed the data using python in the jupyter notebook. You can also visit my linkeldn profile to  check out my other new projects as well - https://www.linkedin.com/in/raghav-sharma11/
